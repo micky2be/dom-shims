@@ -1,0 +1,25 @@
+{
+	"name": "dom-shims",
+	"repo": "necolas/dom-shims",
+	"version": "0.1.4",
+	"description": "Shims / polyfills for simple DOM API's missing in not-so-modern browsers.",
+	"scripts": [
+		"index.js",
+		"shim/CustomEvent.js",
+		"shim/HTMLDocument.js",
+		"shim/Element.classList.js",
+		"shim/Element.closest.js",
+		"shim/Element.matches.js",
+		"shim/Element.mutation.js"
+	],
+	"license": "MIT",
+	"keywords": [
+		"browser",
+		"dom",
+		"shim",
+		"classlist",
+		"mutation",
+		"domtokenlist",
+		"customevent"
+	]
+}
