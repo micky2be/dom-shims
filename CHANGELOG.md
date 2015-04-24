@@ -1,5 +1,9 @@
 === HEAD
 
+=== 0.1.5
+
+* Added Component(1) compatibility
+
 === 0.1.4
 
 * Fix CustomEvent in strict mode.

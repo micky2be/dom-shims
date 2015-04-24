@@ -1,7 +1,7 @@
 {
 	"name": "dom-shims",
 	"repo": "necolas/dom-shims",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "Shims / polyfills for simple DOM API's missing in not-so-modern browsers.",
 	"scripts": [
 		"index.js",
